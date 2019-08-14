@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MagehouseInfinity",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Get infinite scrolling category pages.",
+    "authors": [
+    {
+        "name": "Mrugesh Mistry",
+        "email": "mrugesh.rocks@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
